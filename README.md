@@ -1,22 +1,21 @@
-# Windows Subsystem for Linux (WSL) Documentation
+# <a name="windows-subsystem-for-linux-wsl-documentation"></a>Linux (WSL) 설명서 용 Windows 하위 시스템
 
-## Issues
-If you find doc issues / errors or have an improvement you'd like to suggest, please file an issue and/or submit a pull-request - we greatly appreciate PR's in particular :)
+## <a name="issues"></a>문제
+Doc 문제가 발견 되 면 / 오류 또는 제안, 하세요 문제를 제출 하거나 끌어오기 요청을 제출 하려는 개선-정말 PR의 특히:)
 
-> **Note:** This repo's issue tracker is only for reporting issues with the WSL docs.
-> Other related issue repo's:
+> **참고:** 이 리포지토리의 문제 추적기 WSL 문서를 사용 하 여 문제를 보고 됩니다. 다른 관련 된 문제를 리포지토리의:
 > * WSL: https://github.com/Microsoft/WSL/
-> * Windows Console: https://github.com/Microsoft/Console/
+> * Windows 콘솔: https://github.com/Microsoft/Console/
 
-## External Links
+## <a name="external-links"></a>외부 링크
 
-[Rendered documentation website](https://docs.microsoft.com/windows/wsl/) 
+[렌더링 된 설명서 웹 사이트](https://docs.microsoft.com/windows/wsl/) 
 
-[Release notes for WSL](https://docs.microsoft.com/en-us/windows/wsl/release-notes)
+[WSL에 대 한 릴리스 정보](https://docs.microsoft.com/en-us/windows/wsl/release-notes)
 
-## Microsoft Open Source Code of Conduct
+## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft 오픈 소스 준수 사항
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+이 프로젝트에 도입 된 [Microsoft 오픈 소스 준수 사항](https://opensource.microsoft.com/codeofconduct/)합니다.
+자세한 내용은 참조는 [준수 사항 FAQ](https://opensource.microsoft.com/codeofconduct/faq/) 에 문의 하거나 [ opencode@microsoft.com ](mailto:opencode@microsoft.com) 추가 질문이 나 의견을 사용 하 여 합니다.
 
-Welcome to the markdown source for Microsoft's command-line shells and console documentation.
+콘솔 설명서 및 Microsoft의 명령줄 셸에 대 한 markdown 소스 시작 합니다.
